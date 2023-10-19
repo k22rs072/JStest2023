@@ -1,8 +1,11 @@
 /**/
 
 html,body {
-  background: skyblue;
+  background: white;
   height: 100%;
+  width: 100%;
+  padding: 10px;
+  margin: 5px;
 }
 
 .out {
@@ -22,3 +25,4 @@ html,body {
   content: "▶";
   color: red;
 }
+
